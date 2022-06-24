@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olivermene
+- 👋 Hi, I’m @lucasloura
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning analysis and development of systems
 - 💞️ I’m looking to collaborate with cool people to do cool stuff
