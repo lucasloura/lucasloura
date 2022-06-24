@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lucasloura
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning analysis and development of systems
+- 🌱 I’m currently learning system analysis and development
 - 💞️ I’m looking to collaborate with cool people to do cool stuff
-- 📫 How to reach me? Just dm me lol
+- 📫 How to reach me? Check out my profile description
 
 <!---
 olivermene/olivermene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
