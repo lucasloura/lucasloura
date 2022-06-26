@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Lucas!
 
-This is the place where I share stuff and break things!
+This is the place where I share things and break stuff!
 
 - 🌱  I’m currently studying system analysis and development
 
