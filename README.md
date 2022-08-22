@@ -15,6 +15,7 @@ This is the place where I share things and break stuff!
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="VB.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Batch" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2245/2245281.png">
 </div>
 
 #
