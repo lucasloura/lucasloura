@@ -4,6 +4,7 @@ This is the place where I share things and break stuff!
 
 - 🌱  I’m currently studying system analysis and development
 
+<br>
 
 <div align="center">
   <a href="https://github.com/lucasloura">
