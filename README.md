@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Lucas Loura</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">This is where I share things and break stuff!</h3>
 
 <br>
 
-- 🌱 I’m currently learning **UX Design**
+- 🌱 I’m currently learning **UX Design**!
 
 <br>
 
