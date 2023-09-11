@@ -1,3 +1,5 @@
+<!--
+
 ## Hello 👋, I'm Lucas!
 
 This is the place where I share things and break stuff!
@@ -24,3 +26,5 @@ This is the place where I share things and break stuff!
   <a href="https://www.linkedin.com/in/lucas-loura-800b76230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:oliverloura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+-->
